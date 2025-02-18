@@ -54,8 +54,8 @@ EventStatistics.java - Demonstrates package-private access modifier
 
 Main.java - Contains example usage of all concepts
 
-Running the Example
-Execute the Main class to see the demonstration of:
+## Running the Example
+### Execute the Main class to see the demonstration of:
 
 Creating events with encapsulated data
 
